@@ -1,0 +1,68 @@
+[
+  {
+    "source": "^I should navigate to home page$",
+    "steps": [
+      {
+        "name": "I should navigate to home page",
+        "aggregatedDurations": {
+          "average": 0.33570665,
+          "median": 0.33570665
+        },
+        "durations": [
+          {
+            "duration": 0.2993991,
+            "location": "reg1.feature:7"
+          },
+          {
+            "duration": 0.3720142,
+            "location": "reg1.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I launched broeser with this URL$",
+    "steps": [
+      {
+        "name": "I launched broeser with this URL",
+        "aggregatedDurations": {
+          "average": 9.3584101,
+          "median": 9.3584101
+        },
+        "durations": [
+          {
+            "duration": 9.6852152,
+            "location": "reg1.feature:5"
+          },
+          {
+            "duration": 9.031605,
+            "location": "reg1.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I entered valid us pwd and click on login button$",
+    "steps": [
+      {
+        "name": "I entered valid us pwd and click on login button",
+        "aggregatedDurations": {
+          "average": 1.43867475,
+          "median": 1.43867475
+        },
+        "durations": [
+          {
+            "duration": 1.4785938,
+            "location": "reg1.feature:6"
+          },
+          {
+            "duration": 1.3987557,
+            "location": "reg1.feature:13"
+          }
+        ]
+      }
+    ]
+  }
+]

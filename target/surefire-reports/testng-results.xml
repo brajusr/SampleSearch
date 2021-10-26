@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22813" started-at="2021-10-25T09:43:06Z" finished-at="2021-10-25T09:43:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22813" started-at="2021-10-25T09:43:06Z" finished-at="2021-10-25T09:43:28Z">
+      <class name="com.sample.Runner.BddTestRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.sample.Runner.BddTestRunner@58c1c010]" name="runCukes" duration-ms="22788" started-at="2021-10-25T15:13:06Z" finished-at="2021-10-25T15:13:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.sample.Runner.BddTestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
